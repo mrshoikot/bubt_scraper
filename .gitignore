@@ -1,0 +1,8 @@
+photos/*
+*.db
+*.json
+*.pdf
+*.sql
+test.py
+*.pyc
+config.toml

@@ -1,0 +1,2 @@
+semesters = ['Fall 2016-17', 'Summer 2018']
+sqlite_path = 'bubt.db'
